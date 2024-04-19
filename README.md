@@ -1,3 +1,3 @@
 <h2 align="center">
-Hi there, I'm Captain Pirate👋
+Hi there, I'm Rakesh 👋
 </h2>
